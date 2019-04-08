@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import TheMightyDucks from './TheMightyDucks.js'
+// import TheMightyDucks from './TheMightyDucks.js'
 
 class Vote extends Component {
   render () {
@@ -25,7 +25,6 @@ class Vote extends Component {
           <p>Democrats: {dem}  Republicans: {rep}  Independents: {ind}</p>
           <h4>Total: {total}</h4>
         </div>
-          <TheMightyDucks full={full}/>
         <br/>
       </div>
     )
