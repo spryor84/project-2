@@ -1,0 +1,15 @@
+html {
+/*  background-image: url("https://s.abcnews.com/images/Politics/170119_vod_orig_senateconfirmation_16x9_1600.jpg");
+  background-size: 1600px 900px;
+  background-position: center;*/
+}
+
+body {
+/*      background-image: url("https://s.abcnews.com/images/Politics/170119_vod_orig_senateconfirmation_16x9_1600.jpg");
+  background-size: 1600px 900px;
+  background-position: center;*/
+  margin: 0 auto;
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+}

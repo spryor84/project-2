@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  height:100%;
+}
+
+.App-header {
+  background-color: red;
+  height: 2.5%;
+  padding: 10px;
+  color: black;
+  width: 100%;
+}
+.App-footer {
+  background-color: blue;
+  height: 4%;
+  padding: 10px;
+  color: black;
+  width: 100%;
+}
+
+.content {
+  /*background-image: url("https://s.abcnews.com/images/Politics/170119_vod_orig_senateconfirmation_16x9_1600.jpg");*/
+  background-size: 1600px 900px;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+}
+
+.emblem {
+  height: 8%;
+  width: 8%;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
